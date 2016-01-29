@@ -1,0 +1,24 @@
+{
+  "name": "je-dashboard",
+  "version": "1.0.0",
+  "description": "Dashboard CSS Template",
+  "main": "dashboard.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/casaval/je-dashboard.git"
+  },
+  "keywords": [
+    "dashboard",
+    "css",
+    "html"
+  ],
+  "author": "JE (forked from creative-tim)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/casaval/je-dashboard/issues"
+  },
+  "homepage": "https://github.com/casaval/je-dashboard#readme"
+}
